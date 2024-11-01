@@ -6,7 +6,7 @@ Members names:
 -Kate Boyd, 
 -Shu Chen,
 -Mahdi Hassoun,
--Imane Moussa Marou, 300440456
+-Imane Moussa Marou
 -Nilaavan Murugaananthan,
 
 Product name: StudyHub
